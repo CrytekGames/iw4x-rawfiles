@@ -1,10 +1,3 @@
-![license](https://img.shields.io/github/license/XLabsProject/iw4x-rawfiles.svg)
-![forks](https://img.shields.io/github/forks/XLabsProject/iw4x-rawfiles.svg)
-![stars](https://img.shields.io/github/stars/XLabsProject/iw4x-rawfiles.svg)
-![issues](https://img.shields.io/github/issues/XLabsProject/iw4x-rawfiles.svg)
-[![discord](https://img.shields.io/endpoint?url=https://momo5502.com/iw4x/members-badge.php)](https://discord.gg/sKeVmR3)
-[![patreon](https://img.shields.io/badge/patreon-support-blue.svg?logo=patreon)](https://www.patreon.com/xlabsproject)
-
 # IW4x: Rawfiles
 
 These are the rawfiles that are required (next to iw4x.dll) to launch and play IW4x.

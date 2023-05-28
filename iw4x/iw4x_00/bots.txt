@@ -1,0 +1,18 @@
+/dev/../,BOT
+/dev/console,BOT
+/dev/full,BOT
+/dev/random,BOT
+/dev/sdb,BOT
+/dev/sr0,BOT
+/dev/tty0,BOT
+/dev/urandom,BOT
+Diamante,BOT
+Doctor,BOT
+Dss0,BOT
+Jimbo,BOT
+Laupetin,BOT
+Louvenarde,BOT
+lsb_release -a,BOT
+Lunarion,BOT
+RektInator,BOT
+Snake,BOT
